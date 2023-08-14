@@ -1,0 +1,17 @@
+.btn{
+    text-align: center;
+}
+.container{
+    border: 3px solid black;
+    height: 300px;
+   width: 900px;
+   background-color: gold;
+}
+.alert{
+    height:300px;
+    width:400px;
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
